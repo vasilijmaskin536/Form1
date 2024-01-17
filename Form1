@@ -1,0 +1,4 @@
+  public partial class Form1 : Form
+    {
+        private int playerX = 50;
+        private const int playerSpeed = 5;
